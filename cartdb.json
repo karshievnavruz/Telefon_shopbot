@@ -1,0 +1,48 @@
+{
+    "cart": [
+        {
+            "brand": "Apple",
+            "model_id": "1"
+        },
+        {
+            "brand": "Apple",
+            "model_id": "17"
+        },
+        {
+            "brand": "Apple",
+            "model_id": "2"
+        },
+        {
+            "brand": "Samsung",
+            "model_id": "1"
+        },
+        {
+            "brand": "Samsung",
+            "model_id": "1"
+        },
+        {
+            "brand": "Vivo",
+            "model_id": "4"
+        },
+        {
+            "brand": "Samsung",
+            "model_id": "54"
+        },
+        {
+            "brand": "Vivo",
+            "model_id": "15"
+        },
+        {
+            "brand": "Vivo",
+            "model_id": "15"
+        },
+        {
+            "brand": "Apple",
+            "model_id": "2"
+        },
+        {
+            "brand": "Samsung",
+            "model_id": "15"
+        }
+    ]
+}

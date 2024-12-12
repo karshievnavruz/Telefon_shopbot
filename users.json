@@ -1,0 +1,28 @@
+{
+    "users": {
+        "1": {
+            "user_id": 1258594598,
+            "first_name": "Diyorbek",
+            "last_name": "Jumanov",
+            "username": "jumanovdiyorbek"
+        },
+        "2": {
+            "user_id": 1945911348,
+            "first_name": "Qarshiyev Navro\u02bbzboy",
+            "last_name": null,
+            "username": "karshiev_navruz"
+        },
+        "3": {
+            "user_id": 5511596030,
+            "first_name": "N",
+            "last_name": null,
+            "username": null
+        },
+        "4": {
+            "user_id": 1728873278,
+            "first_name": "Behzod",
+            "last_name": null,
+            "username": "bekhzod_ergashev_12_09"
+        }
+    }
+}
